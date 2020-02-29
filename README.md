@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.com/ocaml/ocaml-lsp.svg?env=BADGE=4.06&branch=master)](https://travis-ci.com/ocaml/ocaml-lsp)
+[![Build Status](https://travis-ci.com/ocaml/ocaml-lsp.svg?env=BADGE=4.07&branch=master)](https://travis-ci.com/ocaml/ocaml-lsp)
+[![Build Status](https://travis-ci.com/ocaml/ocaml-lsp.svg?env=BADGE=4.08&branch=master)](https://travis-ci.com/ocaml/ocaml-lsp)
+[![Build Status](https://travis-ci.com/ocaml/ocaml-lsp.svg?env=BADGE=4.09&branch=master)](https://travis-ci.com/ocaml/ocaml-lsp)
+
 # OCaml-LSP
 
 This project contains an implementation of an LSP server for OCaml and a
